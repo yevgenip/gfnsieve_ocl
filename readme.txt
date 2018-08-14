@@ -7,6 +7,8 @@ Original program was written by Anand Nair. OpenCL port by Roman Trunov.
 Original program was written for NVIDIA CUDA only. This port could be run
 on any OpenCL-enabled GPU.
 
+Yevgenip: This fork is for my personal use to make it work on a problematic machine.
+
 Additional improvements over original version are:
 
 - Better performance (less CPU usage) for low-N sieves (GFN-15,-16,-17);
